@@ -2,9 +2,11 @@
     Boarder precision measurement System
 
 Original Image 
+
 ![img](frames/redmi_7A.png)
 
 Contour applied on detected edges
+
 ![img](Detection_process/ContouronFilledEdge.png)
 
 Erasing Mask 
@@ -28,4 +30,5 @@ Detected Object
 ![alt text](Detection_process/Detected_object.png)
 
 Measured Dimension
+
 ![alt text](Detection_process/Realme_7A_dimension.png)
