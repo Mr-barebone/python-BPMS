@@ -2,8 +2,8 @@
     Boarder precision measurement System
 
 Original Image 
+<img src="frames/redmi_7A.png" alt="Alt text" width="500" height="300">
 
-![img](frames/redmi_7A.png)
 
 Contour applied on detected edges
 
