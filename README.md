@@ -1,5 +1,6 @@
 ### python-BPMS -: 
     Boarder precision measurement System
+    You need to adjust the code for the particular image properties... otherwise it wont give accurate data
 
 Original Image 
 
